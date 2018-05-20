@@ -5,4 +5,4 @@ cd $DIR
 cd ..
 mkdir -p build
 cd src
-zip -r ../build/doki-doki-hackathon-club.ppt *
+zip -r ../build/doki-doki-hackathon-club.pptx *
