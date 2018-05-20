@@ -1,1 +1,1 @@
-代码就是文档
+Run `scripts/build.sh` to build documents.
